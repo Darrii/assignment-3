@@ -5,8 +5,7 @@
 1. install requirements `pip install -r requirements.txt`
 
 ## Usage
-```python app.py
-```
+```python app.py```
 ## Examples
 ```python app.py```
 """
